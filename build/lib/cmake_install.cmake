@@ -1,4 +1,4 @@
-# Install script for directory: /home/longnguyen/Blink-hash/index/blink-hash/lib
+# Install script for directory: /home/longnguyen/alone/blink-hash/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -37,32 +37,27 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
-endif()
-
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/longnguyen/Blink-hash/index/blink-hash/libadapt.a")
+   "/home/longnguyen/alone/blink-hash/libadapt.a")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/home/longnguyen/Blink-hash/index/blink-hash" TYPE STATIC_LIBRARY FILES "/home/longnguyen/Blink-hash/index/blink-hash/build/lib/libadapt.a")
+file(INSTALL DESTINATION "/home/longnguyen/alone/blink-hash" TYPE STATIC_LIBRARY FILES "/home/longnguyen/alone/blink-hash/build/lib/libadapt.a")
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/longnguyen/Blink-hash/index/blink-hash/libblinkhash.a")
+   "/home/longnguyen/alone/blink-hash/libblinkhash.a")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-  file(INSTALL DESTINATION "/home/longnguyen/Blink-hash/index/blink-hash" TYPE STATIC_LIBRARY FILES "/home/longnguyen/Blink-hash/index/blink-hash/build/lib/libblinkhash.a")
+file(INSTALL DESTINATION "/home/longnguyen/alone/blink-hash" TYPE STATIC_LIBRARY FILES "/home/longnguyen/alone/blink-hash/build/lib/libblinkhash.a")
 endif()
 
