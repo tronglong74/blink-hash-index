@@ -1,0 +1,263 @@
+-----------------scan--------------
+Insertion: 11.7536 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 54.023 %
+inode lv 0: 48.4828 %
+leaf 56.2229 %
+inode bytes: 54784 btree node bytes: 0 hash node bytes: 394788864
+total memory used in GB: 0.367727
+utilization of leaf nodes: 56.2229 %
+Scan 100%
+inode lv 4: 17.2414 %
+inode lv 3: 37.3563 %
+inode lv 2: 45.7018 %
+inode lv 1: 61.5489 %
+inode lv 0: 77.9637 %
+leaf 78.451 %
+inode bytes: 10424320 btree node bytes: 232841728 hash node bytes: 262144
+total memory used in GB: 0.226803
+Scan: 1.2651 mops/sec
+Insertion: 15.8056 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 53.4483 %
+inode lv 0: 48.4152 %
+leaf 55.7231 %
+inode bytes: 54272 btree node bytes: 0 hash node bytes: 390332416
+total memory used in GB: 0.363576
+utilization of leaf nodes: 55.7231 %
+Scan 100%
+inode lv 4: 17.2414 %
+inode lv 3: 36.2069 %
+inode lv 2: 47.4263 %
+inode lv 1: 61.3409 %
+inode lv 0: 78.0954 %
+leaf 78.4452 %
+inode bytes: 10408960 btree node bytes: 232855040 hash node bytes: 262144
+total memory used in GB: 0.226801
+Scan: 2.65738 mops/sec
+Insertion: 23.7355 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.7333 %
+leaf 55.544 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 388759552
+total memory used in GB: 0.362111
+utilization of leaf nodes: 55.544 %
+Scan 100%
+inode lv 4: 17.2414 %
+inode lv 3: 35.6322 %
+inode lv 2: 45.7635 %
+inode lv 1: 62.0281 %
+inode lv 0: 78.0426 %
+leaf 78.4487 %
+inode bytes: 10407424 btree node bytes: 232788992 hash node bytes: 262144
+total memory used in GB: 0.226738
+Scan: 4.7167 mops/sec
+Insertion: 38.6063 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.6629 %
+leaf 55.484 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 388235264
+total memory used in GB: 0.361622
+utilization of leaf nodes: 55.484 %
+Scan 100%
+inode lv 4: 13.7931 %
+inode lv 3: 40 %
+inode lv 2: 50.9579 %
+inode lv 1: 62.3052 %
+inode lv 0: 78.1205 %
+leaf 78.4492 %
+inode bytes: 10394624 btree node bytes: 232867328 hash node bytes: 262144
+total memory used in GB: 0.226799
+Scan: 8.80371 mops/sec
+Insertion: 48.3839 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.3814 %
+leaf 55.2422 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 386138112
+total memory used in GB: 0.359669
+utilization of leaf nodes: 55.2422 %
+Scan 100%
+inode lv 4: 17.2414 %
+inode lv 3: 35.6322 %
+inode lv 2: 46.6531 %
+inode lv 1: 62.9189 %
+inode lv 0: 78.0966 %
+leaf 78.4508 %
+inode bytes: 10394112 btree node bytes: 232825856 hash node bytes: 262144
+total memory used in GB: 0.22676
+Scan: 10.9342 mops/sec
+-----------------read--------------
+Insertion: 12.0481 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 54.023 %
+inode lv 0: 48.4828 %
+leaf 56.2229 %
+inode bytes: 54784 btree node bytes: 0 hash node bytes: 394788864
+total memory used in GB: 0.367727
+utilization of leaf nodes: 56.2229 %
+Read 100%
+inode lv 2: 17.2414 %
+inode lv 1: 54.023 %
+inode lv 0: 48.4828 %
+leaf 56.2229 %
+inode bytes: 54784 btree node bytes: 0 hash node bytes: 394788864
+total memory used in GB: 0.367727
+Read: 3.35646 mops/sec
+Insertion: 15.7804 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 53.4483 %
+inode lv 0: 48.4152 %
+leaf 55.7231 %
+inode bytes: 54272 btree node bytes: 0 hash node bytes: 390332416
+total memory used in GB: 0.363576
+utilization of leaf nodes: 55.7231 %
+Read 100%
+inode lv 2: 17.2414 %
+inode lv 1: 53.4483 %
+inode lv 0: 48.4152 %
+leaf 55.7231 %
+inode bytes: 54272 btree node bytes: 0 hash node bytes: 390332416
+total memory used in GB: 0.363576
+Read: 7.54649 mops/sec
+Insertion: 23.0476 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.8037 %
+leaf 55.6039 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 389283840
+total memory used in GB: 0.362599
+utilization of leaf nodes: 55.6039 %
+Read 100%
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.8037 %
+leaf 55.6039 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 389283840
+total memory used in GB: 0.362599
+Read: 14.7171 mops/sec
+Insertion: 39.2565 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.6277 %
+leaf 55.4539 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 387973120
+total memory used in GB: 0.361378
+utilization of leaf nodes: 55.4539 %
+Read 100%
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.6277 %
+leaf 55.4539 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 387973120
+total memory used in GB: 0.361378
+Read: 24.942 mops/sec
+Insertion: 46.3341 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.4166 %
+leaf 55.2725 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 386400256
+total memory used in GB: 0.359913
+utilization of leaf nodes: 55.2725 %
+Read 100%
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.4166 %
+leaf 55.2725 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 386400256
+total memory used in GB: 0.359913
+Read: 42.7207 mops/sec
+-----------------mix--------------
+Insertion: 11.4008 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 54.023 %
+inode lv 0: 48.4138 %
+leaf 56.1647 %
+inode bytes: 54784 btree node bytes: 0 hash node bytes: 394264576
+total memory used in GB: 0.367239
+utilization of leaf nodes: 56.1647 %
+Insert 50%, Short scan 30%, Long scan 10%, Read 10%
+inode lv 4: 17.2414 %
+inode lv 3: 37.3563 %
+inode lv 2: 45.7989 %
+inode lv 1: 61.7785 %
+inode lv 0: 77.9565 %
+leaf 78.4089 %
+inode bytes: 10458112 btree node bytes: 233236992 hash node bytes: 196870144
+total memory used in GB: 0.410308
+Mix: 3.10885 mops/sec
+Insertion: 15.5805 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 53.4483 %
+inode lv 0: 48.45 %
+leaf 55.7528 %
+inode bytes: 54272 btree node bytes: 0 hash node bytes: 390594560
+total memory used in GB: 0.36382
+utilization of leaf nodes: 55.7528 %
+Insert 50%, Short scan 30%, Long scan 10%, Read 10%
+inode lv 4: 17.2414 %
+inode lv 3: 35.0575 %
+inode lv 2: 47.4645 %
+inode lv 1: 61.8183 %
+inode lv 0: 78.0844 %
+leaf 78.4128 %
+inode bytes: 10439168 btree node bytes: 233228800 hash node bytes: 196345856
+total memory used in GB: 0.409795
+Mix: 6.43803 mops/sec
+Insertion: 23.8936 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.7685 %
+leaf 55.5739 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 389021696
+total memory used in GB: 0.362355
+utilization of leaf nodes: 55.5739 %
+Insert 50%, Short scan 30%, Long scan 10%, Read 10%
+inode lv 4: 17.2414 %
+inode lv 3: 34.4828 %
+inode lv 2: 47.9101 %
+inode lv 1: 63.6386 %
+inode lv 0: 77.945 %
+leaf 78.4095 %
+inode bytes: 10441728 btree node bytes: 233220608 hash node bytes: 195559424
+total memory used in GB: 0.409057
+Mix: 12.4239 mops/sec
+Insertion: 39.158 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.6277 %
+leaf 55.4539 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 387973120
+total memory used in GB: 0.361378
+utilization of leaf nodes: 55.4539 %
+Insert 50%, Short scan 30%, Long scan 10%, Read 10%
+inode lv 4: 17.2414 %
+inode lv 3: 37.3563 %
+inode lv 2: 44.9713 %
+inode lv 1: 61.6004 %
+inode lv 0: 77.9336 %
+leaf 78.4106 %
+inode bytes: 10457600 btree node bytes: 233134080 hash node bytes: 191365120
+total memory used in GB: 0.405085
+Mix: 16.3868 mops/sec
+Insertion: 43.7609 mops/sec
+inode lv 2: 17.2414 %
+inode lv 1: 52.8736 %
+inode lv 0: 48.3814 %
+leaf 55.2422 %
+inode bytes: 53760 btree node bytes: 0 hash node bytes: 386138112
+total memory used in GB: 0.359669
+utilization of leaf nodes: 55.2422 %
+Insert 50%, Short scan 30%, Long scan 10%, Read 10%
+inode lv 4: 17.2414 %
+inode lv 3: 33.908 %
+inode lv 2: 49.2163 %
+inode lv 1: 62.1437 %
+inode lv 0: 77.9154 %
+leaf 78.4149 %
+inode bytes: 10454528 btree node bytes: 233189888 hash node bytes: 185073664
+total memory used in GB: 0.399275
+Mix: 19.0432 mops/sec

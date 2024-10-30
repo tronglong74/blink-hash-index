@@ -1,5 +1,5 @@
 #!/bin/bash
-num=100000000
+num=100000
 
 mkdir out
 load_path=out/insert

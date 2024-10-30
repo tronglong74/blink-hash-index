@@ -24,7 +24,7 @@ find_library(TC_MALLOC_LIBRARY
 )
 
 #find_library(TBB tbb)
-set(TBB_ROOT "${CMAKE_CURRENT_SOURCE_DIR}/../hot/third-party/tbb")
+set(TBB_ROOT "${CMAKE_CURRENT_SOURCE_DIR}/third-party/tbb")
 include(${TBB_ROOT}/cmake/TBBBuild.cmake)
 tbb_build(TBB_ROOT ${TBB_ROOT} CONFIG_DIR TBB_DIR MAKE_ARGS)
 find_package(TBB REQUIRED)

@@ -1,0 +1,147 @@
+-----------------scan--------------
+Thread Num 1
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 2.25109e+06 usec
+throughput: 4.44228 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 72.4138 %
+inode lv 0: 77.6646 %
+leaf 36.3012 %
+inode bytes: 24064 btree node bytes: 0 hash node bytes: 271319040
+total memory used in GB: 0.252708
+utilization of leaf nodes: 36.3012 %
+Thread Num 2
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 1.04026e+06 usec
+throughput: 9.61294 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 74.1379 %
+inode lv 0: 77.0115 %
+leaf 37.2112 %
+inode bytes: 24576 btree node bytes: 0 hash node bytes: 275251200
+total memory used in GB: 0.256371
+utilization of leaf nodes: 37.2112 %
+Thread Num 4
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 543682 usec
+throughput: 18.3931 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 72.4138 %
+inode lv 0: 77.2727 %
+leaf 35.992 %
+inode bytes: 24064 btree node bytes: 0 hash node bytes: 270008320
+total memory used in GB: 0.251487
+utilization of leaf nodes: 35.992 %
+Thread Num 8
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 292591 usec
+throughput: 34.1774 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 79.3103 %
+inode lv 0: 70.8333 %
+leaf 36.2396 %
+inode bytes: 26112 btree node bytes: 0 hash node bytes: 271056896
+total memory used in GB: 0.252466
+utilization of leaf nodes: 36.2396 %
+Thread Num 16
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 229915 usec
+throughput: 43.4943 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 84.4828 %
+inode lv 0: 67.8837 %
+leaf 37.5087 %
+inode bytes: 27648 btree node bytes: 0 hash node bytes: 276561920
+total memory used in GB: 0.257594
+utilization of leaf nodes: 37.5087 %
+-----------------read--------------
+Thread Num 1
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 2.20613e+06 usec
+throughput: 4.53282 mops/sec
+Search starts
+elapsed time: 2.61912e+06 usec
+throughput: 3.81808 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 72.4138 %
+inode lv 0: 77.6646 %
+leaf 36.3012 %
+inode bytes: 24064 btree node bytes: 0 hash node bytes: 271319040
+total memory used in GB: 0.252708
+utilization of leaf nodes: 36.3012 %
+Thread Num 2
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 1.0309e+06 usec
+throughput: 9.70022 mops/sec
+Search starts
+elapsed time: 1.22428e+06 usec
+throughput: 8.16809 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 74.1379 %
+inode lv 0: 76.6284 %
+leaf 36.9107 %
+inode bytes: 24576 btree node bytes: 0 hash node bytes: 273940480
+total memory used in GB: 0.25515
+utilization of leaf nodes: 36.9107 %
+Thread Num 4
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 528943 usec
+throughput: 18.9056 mops/sec
+Search starts
+elapsed time: 621599 usec
+throughput: 16.0875 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 70.6897 %
+inode lv 0: 79.3905 %
+leaf 36.1779 %
+inode bytes: 23552 btree node bytes: 0 hash node bytes: 270794752
+total memory used in GB: 0.252219
+utilization of leaf nodes: 36.1779 %
+Thread Num 8
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 293198 usec
+throughput: 34.1067 mops/sec
+Search starts
+elapsed time: 338174 usec
+throughput: 29.5706 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 70.6897 %
+inode lv 0: 79.15 %
+leaf 35.992 %
+inode bytes: 23552 btree node bytes: 0 hash node bytes: 270008320
+total memory used in GB: 0.251487
+utilization of leaf nodes: 35.992 %
+Thread Num 16
+inode_size(29), lnode_btree_size(28), lnode_hash_size(474)
+Insertion starts
+elapsed time: 213791 usec
+throughput: 46.7747 mops/sec
+Search starts
+elapsed time: 212641 usec
+throughput: 47.0277 mops/sec
+Height of tree: 4
+inode lv 2: 3.44828 %
+inode lv 1: 79.3103 %
+inode lv 0: 71.6954 %
+leaf 36.9711 %
+inode bytes: 26112 btree node bytes: 0 hash node bytes: 274202624
+total memory used in GB: 0.255395
+utilization of leaf nodes: 36.9711 %
