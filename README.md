@@ -1,6 +1,6 @@
 # blink-hash-index
 
-## install on Ubuntu 20.04 LTS
+### install on Ubuntu 20.04 LTS
 ```
 ## GCC - compiler
 apt install -y gcc g++ gdb
@@ -24,14 +24,14 @@ apt install -y libpapi5.7 libpapi-dev
 
 ```
 
-# build
+### build
 ```
 mkdir build
 cd build
 cmake && make -j
 ```
 
-# run script to test
+### run script to test
 ```
 ./scripts/run_multi_timestamp.sh
 ./scripts/run_test_multi.sh
